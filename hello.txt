@@ -1,0 +1,4 @@
+Hello World this is file handling in python
+		 Python is awesomeHello World this is file handling in python
+		 Python is awesomeHello World this is file handling in python
+		 Python is awesome
